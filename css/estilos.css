@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+.azul {
+    background-color:rgb(117, 175, 229);
+    color:rgb(117, 175, 229) ;
+    height: 250px ;
+}
+
+.blanco {
+    background-color:rgb(255, 255, 255);
+    color:rgb(255, 255, 255) ;
+    height: 240px ;
+}
+
+#franjaUno{
+    margin: 0 0 17% 0;
+}
+
+
+
